@@ -96,6 +96,8 @@ __提交合并时请:__
 ---
 在相应的企业页面里您可以提交您的ID: 微信/Twitter/QQ均可。
 
+<br/>
+
 分享，传播一份正能量
 ---
 <img src="https://github.com/fotock/996Board/blob/master/share-996board.png?raw=true" alt="share 996 board" width="400" />
