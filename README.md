@@ -86,8 +86,15 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 
 <br/>
 
+分享/加Star, 让企业重视传播的力量！
+---
+<img src="https://github.com/fotock/996Board/blob/master/share-996board.png?raw=true" alt="share 996 board" width="400" />
+
+<br/>
+
 提交企业名称
 ---
+
 Fork本项目，修改本文内容，提交合并请求即可。
 
 __提交合并时请:__
@@ -100,13 +107,9 @@ __提交合并时请:__
 
 提交签名，呼吁停止
 ---
+
 在相应的企业页面里您可以提交您的ID: 微信/Twitter/QQ均可。
 
-<br/>
-
-分享/加Star, 让企业重视传播的力量！
----
-<img src="https://github.com/fotock/996Board/blob/master/share-996board.png?raw=true" alt="share 996 board" width="400" />
 
 <br/>
 
