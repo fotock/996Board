@@ -98,5 +98,6 @@ __提交合并时请:__
 
 分享，传播一份正能量
 ---
+<img src="https://github.com/fotock/996Board/blob/master/share-996board.png?raw=true" alt="share 996 board" width="480" />
 
 
