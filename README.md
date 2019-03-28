@@ -100,7 +100,7 @@ __提交合并时请:__
 
 <br/>
 
-分享，传播一份正能量
+分享/加Star, 传播一份能量
 ---
 <img src="https://github.com/fotock/996Board/blob/master/share-996board.png?raw=true" alt="share 996 board" width="400" />
 
